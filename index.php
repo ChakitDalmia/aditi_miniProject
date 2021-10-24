@@ -211,7 +211,7 @@ session_start();
 										class="rectangle-36-3 smart-layers-pointers"
 										src="rectangle-36-2@2x.png"
 										/> -->
-										<a href="cart\c.php">
+										<a href="c.php">
 										<div class="rectangle-36-3 smart-layers-pointers"></div>
 										<img
 										class="feathershopping-cart"
@@ -225,7 +225,7 @@ session_start();
 										<span class="span0 roboto-bold-black-96px">KHOJ </span><span class="span1">YOUR<br/></span
 										><span class="span2">BHOJ</span>
 									</h1>
-									<a href="Menu\menu1.php">
+									<a href="menu1.php">
 									<div class="group-121">
 										<div class="overlap-group-2">
 											<div class="menu roboto-medium-black-48px">MENU</div>
