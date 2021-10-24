@@ -400,7 +400,7 @@ session_start();
 										<div class="columnfo">
 											<h2>Follow Us</h2>
 											<p>
-												<img class="instagram" src="instagram.png" style="width:40px; height:40px; margin-right:30px"/>
+												<img class="instagram" src="Instagram.png" style="width:40px; height:40px; margin-right:30px"/>
 												<img class="facebook" src="facebook.png" style="width:40px; height:40px; margin-right:30px"/>
 												<img class="snapchat" src="snapchat.png" style="width:50px; height:40px; margin-right:35px"/>
 												<img class="twitter" src="twitter.png" style="width:40px; height:40px; margin-right:20px"/>
