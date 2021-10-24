@@ -1,0 +1,532 @@
+* {
+    margin: 0px;
+    padding:  0px;
+    box-sizing: border-box;
+}
+
+.desktop-2 {
+    align-items: center;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    height: 1253px;
+    overflow: hidden;
+    min-width: 1440px;
+}
+
+.desktop-2 .overlap-group7 {
+    align-self: flex-start;
+    height: 1024px;
+    margin-left: 1px;
+    position: relative;
+    width: 1460px;
+}
+
+
+
+.desktop-2 .overlap-group9 {
+    height: 213px;
+    margin-left: 4.0px;
+    position: relative;
+    width: 1440px;
+}
+
+.desktop-2 .rectangle-1 {
+    height:213px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+}
+
+.desktop-2 .overlap-group1 {
+    align-items: flex-start;
+    background-image: rectangle-37-1@1x.png;
+    background-size: 100% 100%;
+    display: flex;
+    height: 221px;
+    left: -4px;
+    min-width: 1440px;
+    padding: 42px 4px;
+    position: absolute;
+    top: 0;
+}
+
+.desktop-2 .overlap-group4 {
+    height: 80px;
+    position: relative;
+    width: 170px;
+}
+
+
+.desktop-2 .rectangle-36-3 {
+    border-radius: 20px 0px 0px 20px;
+    background-color: #F7F4EF;
+    cursor: pointer;
+    height: 80px;
+    left: 0;
+    pointer-events: auto;
+    position: absolute;
+    top: 0;
+    transition: all 0.2s ease;
+    width: 267px;
+}
+
+.desktop-2 .rectangle-36-3:hover {
+    border-radius: 20px 0px 0px 20px;
+    background-color: #FEAA00
+}
+
+.desktop-2 .rectangle-36-3 {
+    cursor: pointer;
+    height: 80px;
+    left: 0;
+    pointer-events: auto;
+    position: absolute;
+    top: 0;
+    transition: all 0.2s ease;
+    width: 170px;
+}
+
+.desktop-2 .overlap-group {
+    align-items: flex-start;
+    background-image: rectangle-6-1@2x.png;
+    background-size: 100% 100%;
+    display: flex;
+    height: 80px;
+    justify-content: flex-end;
+    min-width: 260px;
+    padding: 17px 26px;
+}
+
+.desktop-2 .group-95 {
+    align-items: flex-start;
+    cursor: pointer;
+    display: flex;
+    height: 80px;
+    left: 1273px;
+    min-width: 170px;
+    position: absolute;
+    top: 42px;
+}
+
+.desktop-2 .aditi {
+    color: #000000;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 38px;
+    left: 63px;
+    letter-spacing: 1.28px;
+    position: absolute;
+    top: 21px;
+}
+
+.desktop-2 .title {
+ position: absolute;
+ width: 254px;
+ height: 113px;
+ left: 593px;
+ top: 50px;
+ font-family: Roboto;
+ font-style: normal;
+ font-weight: 500;
+ font-size: 96px;
+ line-height: 112px;
+ letter-spacing: 0.04em;
+ margin-top: -10px;
+}
+
+.desktop-2 .overlap-group2 {
+    align-items: flex-start;
+    background-image: url(rectangle-37-1@1x.png);
+    background-size: 100% 100%;
+    display: flex;
+    height: 221px;
+    justify-content: flex-end;
+    left: -4px;
+    min-width: 1440px;
+    padding: 42px 2px;
+    position: absolute;
+    top: 0;
+}
+
+.desktop-2 .group-9 {
+    align-items: flex-start;
+    cursor: pointer;
+    display: flex;
+    min-width: 262px;
+}
+
+.desktop-2 .menu {
+    align-self: center;
+    letter-spacing: 3.84px;
+    margin-bottom: 8.0px;
+    margin-left: 331px;
+    min-height: 113px;
+    min-width: 254px;
+}
+
+.desktop-2 .group-96-1 {
+    align-items: flex-start;
+    cursor: pointer;
+    display: flex;
+    margin-left: 425px;
+    min-width: 170px;
+}
+
+.desktop-2 .overlap-group1-1 {
+    height: 80px;
+    position: relative;
+    width: 170px;
+}
+
+.desktop-2 .rectangle-36 {
+    cursor: pointer;
+    height: 80px;
+    left: 0;
+    pointer-events: auto;
+    position: absolute;
+    top: 0;
+    transition: all 0.2s ease;
+    width: 170px;
+}
+
+.desktop-2 .rectangle-36:hover {
+    background-color: #fff
+}
+
+.desktop-2 .feathershopping-cart {
+   height: 60px;
+   left: 55px;
+   position: absolute;
+   top: 10px;
+   width: 60px;
+}
+
+.desktop-2 .rectangle-36-0 {
+    border-radius: 0px 20px 20px 0px;
+    background-color: #F7F4EF;
+    height: 80px;
+    left: 0;
+    pointer-events: auto;
+    position: absolute;
+    top: 0;
+    transition: all 0.2s ease;
+    width: 260px;
+}
+
+.desktop-2 .flex-row {
+    align-items: flex-start;
+    display: flex;
+    margin-right: 10.0px;
+    margin-top: 40px;
+    min-width: 1335px;
+}
+
+.desktop-2 .group-8 {
+    align-items: flex-start;
+    display: flex;
+    min-width: 262px;
+}
+
+
+.desktop-2 .group-17 {
+    display: flex;
+    height: 80px;
+    left: 4px;
+    position: absolute;
+    top: 42px;
+    width: 260px;
+}
+
+.desktop-2 .overlap-group-1 {
+    align-items: flex-start;
+    /*background-image: rectangle-6@2x.png;*/
+    background-size: 100% 100%;
+    display: flex;
+    /*justify-content: flex-end;*/
+    height: 80px;
+    min-width: 258px;
+    padding: 17px 26px;
+}
+
+.desktop-2 .overlap-group-1 {
+    align-items: center;
+    background-color: #F7F4EF;
+    border-radius: 15px;
+    box-shadow: Opx 4px 4px #00000040;
+    display: flex;
+    height: 288px;
+    min-width: 650px;
+    padding: 0 20px;
+}
+
+.desktop-2 .rectangle-39 {
+    height: 248px;
+    width: 248px;
+}
+
+.desktop-2 .flex-col {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+    margin-top: 12.0px;
+    min-height: 218px;
+    width: 260px;
+}
+
+.desktop-2 .special-tea {
+    letter-spacing: 1.68px;
+    min-height: 49px;
+}
+
+.desktop-2 .group-98 {
+    display: flex;
+    margin-top: 15px;
+    width: 233px;
+}
+
+.desktop-2 .group-96 {
+    display: flex;
+    width: 87px;
+}
+
+.desktop-2 .ant-designstar-filled {
+    height: 35px;
+    width: 35px;
+}
+
+.desktop-2 .text {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 28px;
+    line-height: 33px;
+    height: 33px;
+    letter-spacing: 0;
+    margin-left: 12px;
+    margin-top: 1px;
+    width: 38px;
+}
+
+.desktop-2 .ellipse-3 {
+    background-color: #000000;
+    border-radius: 3px;
+    height: 6px;
+    margin-left: 7px;
+    margin-top: 13px;
+    width: 6px;
+}
+
+.desktop-2 .group-97 {
+    display: flex;
+    margin-left: 9px;
+    margin-top: 1px;
+    width: 126px;
+}
+
+.desktop-2 .biclock-history {
+    height: 28.5px;
+    margin-left: -0.2px;
+    margin-top: 1.8px;
+    width: 28.5px;
+}
+
+.desktop-2 .address {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 28px;
+    line-height: 33px;
+    height: 33px;
+    letter-spacing: 0;
+    margin-left: 11.8px;
+    width: 110px;
+}
+
+.desktop-2 .price {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+    letter-spacing: 0;
+    margin-top: 16px;
+    margin-left: 2px;
+    min-height: 24px;
+    width: 117px;
+}
+
+.desktop-2 .group-69 {
+    align-items: flex-start;
+    align-self: flex-end;
+    cursor: pointer;
+    display: flex;
+    margin-top: 20px;
+    width: 218px;
+    height: 50px;
+}
+
+.desktop-2 .overlap-group-2 {
+    align-items: flex-start;
+    background-color: #342628;
+    border-radius: 10px;
+    display: flex;
+    height: 50px;
+    width: 218px;
+    /*padding: 4px 45px;*/
+}
+
+.desktop-2 .add-to-cart {
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 33px;
+    letter-spacing: 0;
+    min-height: 29px;
+    width: 146px;
+    margin-left: 25px;
+    margin-top: 7px;
+}
+
+.desktop-2 .overlap-group-3 {
+    align-items: center;
+    background-color: #F7F4EF;
+    border-radius: 15px;
+    box-shadow: 0px 4px 4px #00000040;
+    display: flex;
+    height: 288px;
+    margin-left: 31px;
+    min-width: 650px;
+    padding: 0 20px;
+}
+
+.desktop-2 .vada-paw {
+    letter-spacing: 1.68px;
+    min-height: 49px;
+}
+
+.desktop-2 .flex-col-1 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+    margin-top: 12.0px;
+    min-height: 218px;
+    width: 314px;
+}
+
+.desktop-2 .cheese-pakoda {
+    letter-spacing: 1.68px;
+    min-height: 49px;
+}
+
+.desktop-2 .group-69-1 {
+    align-items: flex-start;
+    align-self: center;
+    cursor: pointer;
+    display: flex;
+    margin-right: 14.0px;
+    margin-top: 29px;
+    min-width: 220px;
+}
+
+.desktop-2 .flex-col-2 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+    margin-top: 12.0px;
+    min-height: 218px;
+    width: 258px;
+}
+
+.desktop-2 .coffee {
+    letter-spacing: 1.68px;
+    min-height: 49px;
+}
+
+.desktop-2 .overlap-group-4 {
+    align-items: flex-start;
+    align-self: flex-end;
+    background-color: #342628;
+    border-radius: 10px;
+    display: flex;
+    height: 50px;
+    margin-top: 29px;
+    min-width: 218px;
+    padding: 9px 35px;
+}
+
+.desktop-2 .paw-bhaji {
+    letter-spacing: 1.68px;
+    min-height: 49px;
+}
+
+.desktop-2 .lemonade {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size:36px;
+    /*line-height: 49px;*/
+    letter-spacing: 0.04em;
+    letter-spacing: 1.68px;
+    min-height: 49px;
+}
+
+.desktop-2 .cheese-pakoda {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 49px;
+    letter-spacing: 0.04em;
+    letter-spacing: 1.68px;
+    min-height: 49px;
+    width: 314p;
+}
+
+
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700,900, 300, 500");
+
+.screen a {
+    display: contents;
+    text-decoration: none;
+}
+
+.container-center-horizontal {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    pointer-events: none;
+    width: 100%;
+}
+
+.container-center-horizontal > * {
+    flex-shrink: 0;
+    pointer-events: auto;
+}
+
+.align-self-flex-end {
+    align-self: flex-end;
+}
+
+.align-self-flex-center {
+    align-self: flex-center;
+}
+
+.hidden,
+.hidden * {
+    pointer-events: none;
+    visibility: hidden;
+}
+
+.smart-layers-pointers,
+.smart-layers-pointers * {
+    pointer-events: auto;
+    visibility: visible;
+}
